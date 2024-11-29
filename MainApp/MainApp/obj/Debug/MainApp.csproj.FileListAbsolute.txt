@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\obj\Debug\MainApp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\obj\Debug\MainApp.view.Authorization.resources
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\obj\Debug\MainApp.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\obj\Debug\MainApp.csproj.Up2Date
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\obj\Debug\MainApp.pdb
+C:\Users\LENOVO\Desktop\Подготовка к ДЭ\MainApp\MainApp\obj\Debug\MainApp.view.ListRequests.resources

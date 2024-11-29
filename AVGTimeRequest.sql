@@ -1,0 +1,1 @@
+select avg(dr.RequestTime)/60 from dbo.Request dr where dr.RequestStatusId = 3 
